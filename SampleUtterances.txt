@@ -1,0 +1,22 @@
+BalanceIntent what is in {Balance}
+BalanceIntent how much {Balance} do I have
+BalanceIntent how much I have on my {Balance}
+BalanceIntent what is the {Balance}
+BalanceIntent how much {Balance} do I have
+BalanceIntent what is my {Balance}
+BalanceIntent how much {Balance} do I have left
+BalanceIntent how much do I have left on my {Balance}
+BalanceIntent how much I got left on my {Balance}
+BalanceIntent how much is on my {Balance}
+BalanceIntent how much I have on my {Balance}
+BalanceIntent how can I build a {Balance}
+BalanceIntent how can I build an {Balance}
+BalanceIntent how can I build {Balance}
+BalanceIntent how can I craft a {Balance}
+BalanceIntent how can I craft an {Balance}
+BalanceIntent how can I craft {Balance}
+BalanceIntent how can I get a {Balance}
+BalanceIntent how can I get an {Balance}
+BalanceIntent how can I get {Balance}
+BalanceIntent how can I make a {Balance}
+BalanceIntent how is my {Balance}
